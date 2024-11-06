@@ -11,5 +11,18 @@ plt.title('original Image')
 plt.subplot(1,2,2)
 plt.imshow(edges,cmap='gray')
 plt.title('Edges Detected using Canny')
+<<<<<<< HEA
+
+plt.show() 
+ lalith kumar 
+ pannaga 
+ adhi 
+ aryan  
+
+
+
+=======
 plt.show()
    lalith kumar 
+   pannaga
+>>>>>>> 2fc8d85b4927a3da175559e6cabec3acd792146b
